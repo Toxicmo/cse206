@@ -1,4 +1,3 @@
-//Carter T Threatt
 import java.util.Scanner;
 public class Lab4 {
 
